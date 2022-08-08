@@ -3,7 +3,6 @@ numpy
 sklearn
 imblearn
 matplotlib
-seaborn
 warnings
 fastapi
 uvicorn
